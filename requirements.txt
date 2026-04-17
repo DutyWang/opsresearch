@@ -1,0 +1,15 @@
+# 核心框架
+langgraph>=0.3.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+
+# 工具
+duckduckgo-search>=6.0.0
+python-dotenv>=1.0.0
+
+# 开源可视化调试（你要的 langgraphics）
+langgraphics>=0.1.6
+
+# 模型运行
+openai>=1.0.0
